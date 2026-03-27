@@ -31,6 +31,9 @@ This is a live business website developed for a digital marketing and web develo
 ## 📸 Preview
 ![Homepage](homepage.png)
 
+## 🔒 Code Availability
+Due to client confidentiality, the source code is not publicly available.
+
 ## 👨‍💻 Author
 Ayush Dhiman
 
